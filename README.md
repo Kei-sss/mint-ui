@@ -87,7 +87,7 @@ RawGit
 - https://cdn.rawgit.com/ElemeFE/mint-ui/master/lib/index.js
 - https://cdn.rawgit.com/ElemeFE/mint-ui/master/lib/style.css
 
-NPMCDN
+NPMCDNa
 
 - https://unpkg.com/mint-ui/lib/index.js
 - https://unpkg.com/mint-ui/lib/style.css
